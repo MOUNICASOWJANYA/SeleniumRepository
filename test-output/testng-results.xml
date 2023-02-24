@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-14T14:46:10 IST" name="Default suite" finished-at="2023-02-14T14:46:15 IST" duration-ms="4408">
+    <groups>
+    </groups>
+    <test started-at="2023-02-14T14:46:10 IST" name="Default test" finished-at="2023-02-14T14:46:15 IST" duration-ms="4408">
+      <class name="log4jtutorial.Log4jdemo">
+        <test-method signature="log4J()[pri:0, instance:log4jtutorial.Log4jdemo@28f2a10f]" started-at="2023-02-14T14:46:10 IST" name="log4J" finished-at="2023-02-14T14:46:15 IST" duration-ms="4357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log4J -->
+      </class> <!-- log4jtutorial.Log4jdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
